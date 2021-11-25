@@ -14,6 +14,10 @@ export const config = {
       href: "https://www.nextscape.net",
     },
     {
+      title: "採用サイト",
+      href: "https://www.nextscape.net/recruit",
+    },
+    {
       title: "Github",
       href: "https://github.com/nextscape",
     },

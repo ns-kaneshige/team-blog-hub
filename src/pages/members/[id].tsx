@@ -71,7 +71,7 @@ const Page: NextPage<Props> = (props) => {
                 </a>
               )}
               {websiteUrl && (
-                <a href={websiteUrl} className="member-header__link">
+                <a href={websiteUrl} className="member-header__link" target="_blank" rel="noopener noreferrer">
                   <img
                     src="/icons/link.svg"
                     alt={`ウェブサイトのリンク`}
