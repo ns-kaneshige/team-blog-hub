@@ -24,6 +24,6 @@ export const members: Member[] = [
     bio: "動画配信の基礎から最新情報までお届けするブログです。",
     avatarSrc: "/avatars/streaming.png",
     sources: ["https://media-streaming.nextscape.net/feed"],
-    websiteUrl: "https://media-streaming.nextscape.net/s",
+    websiteUrl: "https://media-streaming.nextscape.net",
   }
 ];
