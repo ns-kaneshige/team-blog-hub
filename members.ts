@@ -25,5 +25,16 @@ export const members: Member[] = [
     avatarSrc: "/avatars/streaming.png",
     sources: ["https://media-streaming.nextscape.net/feed"],
     websiteUrl: "https://media-streaming.nextscape.net",
+  },
+  {
+    id: "ns_thara",
+    name: "Toshiyuki Hara",
+    bio: "Microsoft MVP for Microsoft Azure",
+    avatarSrc: "/avatars/thara.jpg",
+    sources: ["https://gooner.hateblo.jp/rss"],
+    websiteUrl: "https://gooner.hateblo.jp/",
+    githubUsername: "thara0402",
+    twitterUsername: "TonyTonyKun",
+    excludeUrlRegex: "personal",
   }
 ];
