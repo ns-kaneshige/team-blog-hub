@@ -4,7 +4,7 @@ import { config } from "@site.config";
 export const SiteFooter: React.FC = () => (
   <footer className="site-footer">
     <ContentWrapper>
-      <p>NEXTSCAPE INC © All Rights Reserved.</p>
+      <p>© 2021 NEXTSCAPE INC</p>
     </ContentWrapper>
   </footer>
 );
